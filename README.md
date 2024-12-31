@@ -1,4 +1,4 @@
-```
+
 # Hi there, I'm Taha Yar Khan 👋
 Welcome to my Github 
 
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
+
