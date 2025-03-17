@@ -4,7 +4,7 @@ Welcome to my Github
 
 ## About me 👨🏽‍💻
 
-- 📚 I'm a fourth-year computer science student @ Toronto Metropolitan University 
+- 📚 I'm a third-year computer science student @ Toronto Metropolitan University 
 - 💻 Passion For coding, learning and building projects -> to beome a Software Engineer!
 
 
