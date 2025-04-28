@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm passionate about coding, learning new technologies, an
 </p>
 
 
-<a href="https://github.com/tahayarkhan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahayarkhan&layout=compact&theme=buefy&hide_border=true" /></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayarkhana&layout=donut)](https://github.com/tahayarkhan/github-readme-stats)
 
 ---
 
