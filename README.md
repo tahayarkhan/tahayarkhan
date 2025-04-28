@@ -31,9 +31,6 @@ Welcome to my GitHub! I'm passionate about coding, learning new technologies, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" alt="Tailwind"/>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahayarkhan&layout=donut)](https://github.com/tahayarkhan/github-readme-stats)
-
 ---
 
 ### 🌐 Connect With Me
