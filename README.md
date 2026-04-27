@@ -33,12 +33,6 @@ Welcome to my GitHub! I'm passionate about coding, learning new technologies, an
 
 ---
 
-### 📊 Stats
-
-![tahayarkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahayarkhan&show_icons=true&theme=gruvbox)
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yar-khan/)
