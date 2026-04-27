@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm passionate about coding, learning new technologies, an
 ### 👨🏽‍💻 About Me
 
 - 🎓 Third-year Computer Science student @ Toronto Metropolitan University  
-- 💻 Aspiring Software Engineer with a passion for building scalable, user-centric applications  
-- 🚀 Currently enhancing my skills in Fullstack Development
+- 💻 Aspiring Software Engineer 
+- 🚀 Currently working on fun projects that involve ML models and techniques
 
 ---
 
