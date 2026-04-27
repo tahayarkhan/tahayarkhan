@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Taha Yar Khan 
+# Hi, I'm Taha Yar Khan 
 
 Welcome to my GitHub! I'm passionate about coding, learning new technologies, and building impactful projects.
 
@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm passionate about coding, learning new technologies, an
 
 ### 👨🏽‍💻 About Me
 
-- 🎓 Third-year Computer Science student @ Toronto Metropolitan University  
-- 💻 Aspiring Software Engineer 
-- 🚀 Currently working on fun projects that involve ML models and techniques
+- Third-year Computer Science student @ Toronto Metropolitan University 🤓
+- Aspiring Software Engineer 🙏
+- Currently working on fun projects that involve ML models and techniques 🕳️ 👨‍🦯
 
 ---
 
