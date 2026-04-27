@@ -1,4 +1,4 @@
-# Hi, I'm Taha Yar Khan 
+# Hi, I'm Taha Yar Khan 🧌
 
 Welcome to my GitHub! I'm passionate about coding, learning new technologies, and building impactful projects.
 
