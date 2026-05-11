@@ -1,5 +1,12 @@
 # Hi, I'm Taha Yar Khan 🧌
 
+
+<div align="center">
+<img src="./me.png" alt="me" />
+</div>
+
+
+---
 Welcome to my GitHub! I'm passionate about coding, learning new technologies, and building impactful projects.
 
 ---
