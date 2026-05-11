@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="./me_saying_hi.png" alt="me" />
+<img src="./me.png" alt="me" />
 </div>
 
 
