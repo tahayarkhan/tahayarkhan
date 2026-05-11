@@ -1,5 +1,3 @@
-# Hi, I'm Taha Yar Khan 🧌
-
 
 <div align="center">
 <img src="./me.png" alt="me" />
