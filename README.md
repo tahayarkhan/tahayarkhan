@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="./me.png" alt="me" width="200" />
+<img src="./Untitled.png" alt="me" />
 </div>
 
 
