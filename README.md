@@ -2,12 +2,12 @@
 <div align="center">
 <img src="./me.png"  alt="me" />
 </div>
+---
 
 ### 👨🏽‍💻 About Me
 
 - Third-year Computer Science student @ Toronto Metropolitan University 🤓
 - Aspiring Software Engineer 🙏
-- 
 
 ---
 
