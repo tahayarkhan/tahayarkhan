@@ -9,6 +9,7 @@
 
 - Third-year Computer Science student @ Toronto Metropolitan University 🤓
 - Aspiring Software Engineer 🙏
+- Currently building FitsIt, an AI-powered smart wardrobe app that generates outfit recommendations using computer vision and color harmony algorithms. → [View Repository](https://github.com/tahayarkhan/FitsIt) 👕 
 
 ---
 
