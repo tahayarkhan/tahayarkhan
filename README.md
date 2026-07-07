@@ -3,17 +3,10 @@
 <img src="./me.png"  alt="me" />
 </div>
 
----
+--
 
-### 👨🏽‍💻 About Me
+I am currently a 4th year Computer Science student at Toronto Metropolitan University 📖 
+Currently building a few projects at the same time, feel free to check the repos out below 👇
+Feel free to connect with me as well! [LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yar-khan/)
 
-- Third-year Computer Science student @ Toronto Metropolitan University 🤓
-- Aspiring Software Engineer 🙏
-- Currently building FitsIt, a smart wardrobe app that generates outfit recommendations using computer vision and color harmony algorithms. → [View Repository](https://github.com/tahayarkhan/FitsIt) 👕 
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-yar-khan/)
 
