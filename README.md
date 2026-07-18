@@ -3,7 +3,7 @@
 <img src="./me.png"  alt="me" />
 </div>
 
-<br>
+<div style="margin-top: 10px;"></div>
 
 - 4th year Computer Science student at Toronto Metropolitan University 📖 
 - Currently building a few projects at the same time, check the repos out below 👇
